@@ -1,0 +1,43 @@
+# Site Settings
+title: 						"Creative Portofolio"
+email: 						"dont.motherthink@gmail.com"
+description: 				"Portofolio Web Pages"
+baseurl: 					""
+url: 						"https://vodkaleak.github.io"	
+
+
+# Author Settings
+author_name: 				"Dont Motherthink"
+author_url: 				"https://vodkaleak.github.io"
+author_bio: 				"Tukang ketik yang masih berstrata 'noob', penikmat kopi dan pecinta keindahan alam maupun wanita."
+author_email: 				"dont.motherthink@gmail.com"
+author_image: 				"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"
+
+
+# Social Settings
+twitter_url: 				"#"
+facebook_url: 			"#"
+github_url:  				"#"
+youtube_url:  			"#"
+dribbble_url:  			"#"
+googleplus_url: 		"#"
+instagram_url:  		"https://www.instagram.com/dont.motherthink"
+pinterest_url:  		"#"
+linkedin_url:  			"#"
+
+
+# Theme Settings
+theme_analytics_id: 		"UA-28077903-4"
+theme_analytics_domain: 	"lorokusumo.github.io"
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
