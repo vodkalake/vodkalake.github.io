@@ -8,6 +8,7 @@ url: 						"https://vodkaleak.github.io"
 
 # Author Settings
 author_name: 				"Dont Motherthink"
+author_tag: "Logo/design/freelancer/videomaker"
 author_url: 				"https://vodkaleak.github.io"
 author_bio: 				"Tukang ketik yang masih berstrata 'noob', penikmat kopi dan pecinta keindahan alam maupun wanita."
 author_email: 				"dont.motherthink@gmail.com"
@@ -27,8 +28,8 @@ linkedin_url:  			"#"
 
 
 # Theme Settings
-theme_analytics_id: 		"UA-28077903-4"
-theme_analytics_domain: 	"lorokusumo.github.io"
+theme_analytics_id: 		"#"
+theme_analytics_domain: 	"#"
 
 
 # SASS Settings
