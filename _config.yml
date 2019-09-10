@@ -1,44 +1,65 @@
-# Site Settings
-title: 						"Creative Portofolio"
-email: 						"dont.motherthink@gmail.com"
-description: 				"Portofolio Web Pages"
-baseurl: 					""
-url: 						"https://vodkalake.github.io"	
+url: http://localhost:4000
+baseurl: 
+
+# Site settings
+title: Awesome Testing
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
-# Author Settings
-author_name: 				"Dont Motherthink"
-author_tag: "Logo/design/freelancer/videomaker"
-author_url: 				"https://vodkalake.github.io"
-author_bio: 				"Tukang ketik yang masih berstrata 'noob', penikmat kopi dan pecinta keindahan alam maupun wanita."
-author_email: 				"dont.motherthink@gmail.com"
-author_image: 				"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
-# Social Settings
-twitter_url: 				"#"
-facebook_url: 			"#"
-github_url:  				"#"
-youtube_url:  			"#"
-dribbble_url:  			"#"
-googleplus_url: 		"#"
-instagram_url:  		"https://www.instagram.com/dont.motherthink"
-pinterest_url:  		"#"
-linkedin_url:  			"#"
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
-# Theme Settings
-theme_analytics_id: 		"#"
-theme_analytics_domain: 	"#"
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
-
-# SASS Settings
-# DO NOT MODIFY
-sass:
- sass_dir: "assets/css/"
- style: :compressed
-
-
-# Build Settings
-markdown: 					kramdown
-permalink: 					pretty
+# Build settings
+markdown: kramdown
+permalink: pretty
