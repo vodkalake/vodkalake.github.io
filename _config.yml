@@ -5,7 +5,8 @@ baseurl:
 title: My Portofolio
 email: dontmotherthink@gmail.com
 description: "We’re small, growing company of just 30 people and are professional for graphic design."
-
+#API IG from http://instagram.pixelunion.net
+api_ig: 7467332793.1677ed0.20c737c5a25e408a919382511da508f6
 
 # titles and social links
 nama: Dont Motherthink
